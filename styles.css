@@ -1,0 +1,67 @@
+/* $(".hidden").hide();   in jquery later*/
+/* add this to evry on event later  $(".hidden").hide();   actually maybe*/
+
+/*Cool trick you can make the picture go nuts if you hover over it, but when your mouse moves out the size changes so that your mouse is still hovering over it and it glitches*/
+.hidden{
+background-color:white;
+    padding:10px;
+    margin:5px;
+    border:2px solid black;
+    margin-right:100px;
+    margin-left:100px;
+}
+
+button:hover{
+	padding-right:50px;
+    padding-left:50px;
+    font-size:16px;
+}
+
+body{
+	background-color:blue;    
+    text-align:center;
+}
+
+.HE{
+    border:#73f573 ridge 13px;
+    color:#73f573;
+}
+
+.BE{
+    color:red;
+    border: 13px red ridge;
+}
+
+.NE{
+	border:13px ridge #cccbb8;
+    color:#cccbb8; 
+}
+
+.title{
+	color:blue;
+    text-align:center;
+    border:5px inset blue;
+    padding:20px;
+    background-color:white;
+}
+
+.daystart{
+	color:#63f263;
+    background-color:white;
+    border: 2px solid #91b391;
+    padding:4px;
+}
+
+.whee{
+	display:flex;
+    justify-content:space-around;
+}
+
+.home{
+	color:black;
+    border:10px outset orange;
+    padding-right:100px;
+    padding-left:100px;
+    margin-top:350px;
+    background-color:orange;
+}
